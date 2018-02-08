@@ -1,0 +1,11 @@
+{
+    "JWTtokenSecret": "lamalamaduck",
+    "JWTExpire": 1800,
+    "MongoURI": "mongodb://localhost/dev",
+    "MongoOptions": {
+        "useMongoClient": true
+    },
+    //API Key for nutritionix.com
+    "NutriAppAPI": "f7c7977a",
+    "NutriKeyAPI": "43ec2d5f50a1712ca54b012a7c9fae42"
+}

@@ -1,0 +1,8 @@
+{
+    "JWTtokenSecret": "test",
+    "JWTExpire": 900,
+    "MongoURI": "mongodb://localhost/test",
+    "MongoOptions": {
+        "useMongoClient": true
+    }
+}
